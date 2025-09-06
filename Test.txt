@@ -5,3 +5,4 @@ Change 2 on the master branch
 Change 2 on MyBranch
 >>>>>>> MyBranch
 Change 2 on the master branch
+Change 2 on the master branch
